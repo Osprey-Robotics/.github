@@ -32,7 +32,7 @@ Interested in joining the Osprey Robotics Team or collaborating with us? Here's 
 
 ## Contact Us
 
-For any inquiries, please reach out to us via email at [email address] or visit our [website](https://ospreyrobotics.weebly.com/).
+For any inquiries, please reach out to us via email at osprey.robotics@gmail.com or visit our [website](https://ospreyrobotics.weebly.com/).
 
 Thank you for your interest in Osprey Robotics. Let's build the future together!
 
