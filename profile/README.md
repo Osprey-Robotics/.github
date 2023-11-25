@@ -2,7 +2,7 @@
 
 Welcome to Osprey Robotics! We are a dedicated group of students from the University of North Florida, passionate about robotics and education.
 
-![https://ospreyrobotics.weebly.com/uploads/1/4/0/7/140712072/background-images/1812339016.jpg]()
+![](https://ospreyrobotics.weebly.com/uploads/1/4/0/7/140712072/background-images/1812339016.jpg)
 
 ## About Us
 
@@ -16,7 +16,7 @@ As a registered student organization within the College of Computing, Engineerin
 - **Engage:** Participate in local and national robotics competitions.
 - **Empower:** Encourage students to take on challenges and innovate in the field of robotics.
 
-![https://ospreyrobotics.weebly.com/uploads/1/4/0/7/140712072/published/pxl-20220608-210838273.jpg?1667612346]()
+![](https://ospreyrobotics.weebly.com/uploads/1/4/0/7/140712072/published/pxl-20220608-210838273.jpg?1667612346)
 
 ## Competitions
 
