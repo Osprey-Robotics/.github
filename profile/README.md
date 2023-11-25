@@ -26,9 +26,9 @@ We take pride in our competitive spirit and have participated in various prestig
 
 Interested in joining the Osprey Robotics Team or collaborating with us? Here's how you can get involved!
 
-- **Join the Team:** If you're a student at UNF, you can join us through the [UNF Club Portal](link-to-club-portal).
-- **Sponsorship:** Support our mission by sponsoring our team. For more details, please contact [email address].
-- **Collaboration:** We're always looking for opportunities to collaborate on projects. Reach out to us at [email address].
+- **Join the Team:** If you're a student at UNF, you can join us through the [UNF Club Portal](https://unf.campuslabs.com/engage/organization/or).
+- **Sponsorship:** Support our mission by sponsoring our team.
+- **Collaboration:** We're always looking for opportunities to collaborate on projects.
 
 ## Contact Us
 
